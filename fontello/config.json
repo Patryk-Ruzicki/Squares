@@ -1,0 +1,112 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "186dec7a13156bbe2550790c158fb85d",
+      "css": "crown",
+      "code": 59460,
+      "src": "fontelico"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "13b9eebfea581ad8e756ee7a18a7cba8",
+      "css": "export-alt",
+      "code": 61773,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e82cedfa1d5f15b00c5a81c9bd731ea2",
+      "css": "info-circled",
+      "code": 59417,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4b20e1deee87faf4c3fab735fbd4bc1a",
+      "css": "lamp",
+      "code": 59426,
+      "src": "entypo"
+    },
+    {
+      "uid": "17c21cd98db80e521e573eba247bd69b",
+      "css": "mail-squared",
+      "code": 61849,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1145676a91138011729fa2909997af66",
+      "css": "linkedin-squared",
+      "code": 62220,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin-1",
+      "code": 61665,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "35ce53990ec0892d7dcea2d0159f8dca",
+      "css": "hourglass",
+      "code": 59392,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "15ba51cbb4d05e6fb88f03a31a7c711c",
+      "css": "info-circled-alt",
+      "code": 61574,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "3e02a8849305ac80a0e36302f461f265",
+      "css": "help-circled-alt",
+      "code": 59511,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "a17986e457f3d85f26c9c240dfd6a4ba",
+      "css": "mail",
+      "code": 59393,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "da72ab64b02d997ff0521339f2997233",
+      "css": "hash",
+      "code": 61481,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "7336247ba3db350dec8d6c0a47cef966",
+      "css": "cog-1",
+      "code": 59509,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "981c9f3d44fd4fd6b37c0b5a981334ce",
+      "css": "clock",
+      "code": 59394,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "00e1f929aa3c591e05de52eb94eda625",
+      "css": "reply",
+      "code": 61482,
+      "src": "mfglabs"
+    }
+  ]
+}
