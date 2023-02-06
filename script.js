@@ -21,13 +21,13 @@ document.onkeydown = e => {
 }   
 */
 
-let timeRandom, i = 1;    
-timeRandom = Math.floor(Math.random()*10+1);
+// let timeRandom, i = 1;    
+// timeRandom = Math.floor(Math.random()*10+1);
 
-console.log(timeRandom);
+// console.log(timeRandom);
 
 
-//delating info paragraph
+// delating info paragraph
 setTimeout(() => {
     const paraInfo = document.querySelector('#info');
     paraInfo.style.opacity = 0;
